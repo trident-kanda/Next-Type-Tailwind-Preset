@@ -1,5 +1,2 @@
-Next-Preset
-
-- Next
-- Tailwind
-- TypeScript
+- nextjs
+- tailwindcss
